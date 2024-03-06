@@ -7,9 +7,13 @@ Fig. 1. An example of depth GT in NYUv2. (a) RGB, (b) GT, (c) enhanced GT by our
 
 ## Run
 Create a new folder named 'models' and download the pretrained weights inside the folder.
+
 The requirements of environment are Python==3.8, Pytorch==2.0.
+
 Run the following code for single depth map enhancement.
+
 ```python test_enhance_realscenes.py```
-More testset can be found here.
+
+More testset can be found "[here](https://github.com/Wang-xjtu/G2-MonoDepth)".
 
 Training code is coming soon.
