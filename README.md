@@ -18,6 +18,6 @@ Run the following code for depth map enhancement.
 
 ```python test_enhance_realscenes.py```
 
-More test sets can be found [here](https://github.com/Wang-xjtu/G2-MonoDepth).
+More test sets and evaluation code can be found [here](https://github.com/Wang-xjtu/G2-MonoDepth).
 
 The training code is coming soon.
